@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Sougata Pal
+- 👀 I’m interested in Development and AI
+- 🌱 I’m currently learning BS CS
+- 📫 Email:- palsougata256@gmail.com
+- ⚡ Fun fact: I want to be a Content Creator about coding and life style.
